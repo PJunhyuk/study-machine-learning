@@ -7,7 +7,7 @@ Reference -> 개별 문서 참고. 문제 시 issue 등록해주시면 즉시 �
 
 # 내용
 
-> [machine-learning](https://github.com/PJunhyuk/study-machine-learning/blob/master/machine-learning.md)
->> [deep-learning](https://github.com/PJunhyuk/study-machine-learning/blob/master/machine-learning.md)
->>> [torch](https://github.com/PJunhyuk/study-machine-learning/blob/master/torch.md)
->>>> [CNN-torch](https://github.com/PJunhyuk/cnn-torch)
+- [machine-learning](https://github.com/PJunhyuk/study-machine-learning/blob/master/machine-learning.md)
+- [deep-learning](https://github.com/PJunhyuk/study-machine-learning/blob/master/machine-learning.md)
+- - - [torch](https://github.com/PJunhyuk/study-machine-learning/blob/master/torch.md)
+- - - - [CNN-torch](https://github.com/PJunhyuk/cnn-torch)
