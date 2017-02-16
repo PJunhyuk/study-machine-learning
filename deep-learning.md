@@ -7,6 +7,17 @@ multiple layers를 사용한 머신 러닝.
 
 깊게 신경망을 구축한 뉴럴 네트워크를 말함.
 
+## 과정
+
+데이터셋 로드 -> 네트워크 정의 -> loss function 정의 -> Training dataset 으로 학습 진행 -> Testing dataset으로 학습 평가
+
+
+## 용어
+
+### learningRate(학습률)
+
+각 epoch이 끝날 때마다 가중치 데이터(theta)를 손실함수가 최소화되는 방향으로의 값(gradTheta)만큼 업데이트하는데, 이 때 업데이트하는 비율을 조정하기 위한 변수.
+
 ## 등장 배경과 역사
 
 ### Artificial neural network(인공 지능망, 뉴럴 네트워크)
