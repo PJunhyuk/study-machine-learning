@@ -11,6 +11,6 @@ Reference -> 개별 문서 참고. 문제 시 issue 등록해주시면 즉시 �
 ## Index
 
 1. [machine-learning](https://github.com/PJunhyuk/study-machine-learning/blob/master/machine-learning.md)
-1. [deep-learning](https://github.com/PJunhyuk/study-machine-learning/blob/master/machine-learning.md)
+1. [deep-learning](https://github.com/PJunhyuk/study-machine-learning/blob/master/deep-learning.md)
     1. [torch](https://github.com/PJunhyuk/study-machine-learning/blob/master/torch.md)
         1. [CNN-torch](https://github.com/PJunhyuk/cnn-torch)
